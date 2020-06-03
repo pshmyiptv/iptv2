@@ -7,10 +7,7 @@ https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="Indonesia",INDOSIAR
-http://id1.indostreamingtv.com/live/indosiar/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png" group-title="Indonesia",INDOSIAR
-http://210.210.155.35/session/b679c7ac-0c40-11ea-988c-92da978567bb/qwr9ew/s/s04/01.m3u8
+https://cdnjt25.useetv.com/joss/15/indosiar/chunklist_w958610128_b894100_sleng_87965.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png",MNC [TC][HD]720p
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
@@ -43,10 +40,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1421001020_b384000_
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1322171097_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/ANTV.id.png" group-title="Indonesia",ANTV
-http://id2.indostreamingtv.com/live/antv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/ANTV.id.png" group-title="Indonesia",ANTV
-https://t5-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/antv2_all/skrz1j8exe/antv2_576p/chunks.m3u8?nimblesessionid=160644111&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDIwIDM6Mzg6MDAgUE0maGFzaF92YWx1ZT1EQ3dkQlR6Q1kzZnpja0tVbi9RYjhnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OTI0MDQzOHwxMTguOTkuMTE4LjEzOQ==
+https://cdnjt25.useetv.com/joss/15/antv/chunklist_w1883572553_b1344100_sleng_87965.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.netmedia.co.id/desktop/images/logo.png" group-title="Indonesia",NET [HD]
 https://cdnjt25.useetv.com/joss/15/net/chunklist_w1117208912_b1344100_sleng_87965.m3u8
@@ -67,7 +61,7 @@ https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-m
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2e/Logo-Kompas_TV.png" group-title="Indonesia",KOMPAS TV
-https://cdnjt14.useetv.com/joss/15/kompastv/chunklist_w2018339365_b894100_sleng.m3u8?enc=JGYQsDBY8Mz_5O4x7ezfdQ&exp=1590252309
+https://cdnjt25.useetv.com/joss/15/kompastv/chunklist_w535674102_b894100_sleng_87965.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2e/Logo-Kompas_TV.png" group-title="Indonesia",KOMPAS TV
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(d3cde5d1-d8a8-422f-9eb1-fdd4b6f29ab8)/index.m3u8
